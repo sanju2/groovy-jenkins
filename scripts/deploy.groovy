@@ -20,3 +20,5 @@ def deploy(String environment, String application, String version) {
 
     echo "Deployment completed successfully!"
 }
+
+return this
